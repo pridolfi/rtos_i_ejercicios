@@ -40,11 +40,9 @@
 
 /*==================[inclusions]=============================================*/
 
-#include "../../../rtos_i_ejercicios/ej1_1/inc/main.h"
-
-#include "../../../rtos_i_ejercicios/ej1_1/inc/FreeRTOSConfig.h"
+#include "main.h"
+#include "FreeRTOSConfig.h"
 #include "ciaaIO.h"
-
 #include "FreeRTOS.h"
 #include "task.h"
 

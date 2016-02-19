@@ -40,7 +40,7 @@
 
 /*==================[inclusions]=============================================*/
 
-#include "../../barrera/inc/main.h"
+#include "main.h"
 
 #include "ciaaIO.h"
 #include "ciaaUART.h"
